@@ -30,4 +30,4 @@ Run the `keylogger.py` script.
 
 ## Notes
 
-- Ensure that you have the necessa
+- Ensure that you have the necessary
