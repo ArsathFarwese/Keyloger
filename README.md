@@ -30,4 +30,5 @@ Run the `keylogger.py` script.
 
 ## Notes
 
-- Ensure that you have the necessary
+- Ensure that you have the necessary permissions to run a keylogger.
+- Use this program responsibly and only for educational or authorized purposes.
